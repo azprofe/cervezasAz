@@ -1,2 +1,3 @@
 # cervezasAz
-Cervezas de azprofe
+- Obtiene una marca de cerveza y sus caracteristicas
+- Obtiene una o varias marcas de cerveza al azar
